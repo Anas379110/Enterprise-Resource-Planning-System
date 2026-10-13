@@ -1,21 +1,21 @@
-# نظام تخطيط موارد المؤسسة (ERP)
-**Enterprise Resource Planning (ERP) System** · التصنيف: هندسة برمجيات
+# Enterprise Resource Planning (ERP) System
+**Enterprise Resource Planning (ERP) System** · Category: Software Engineering
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
+> This project is for a specific company/client, and the source code is not published.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-نظام ERP متكامل يغطي HR، المخزون، المالية، والتقارير.
+## Project Overview
+An integrated ERP system covering HR, Inventory, Finance, and Reporting.
 
-## أبرز النقاط
-- Microservices على Docker + Kubernetes
-- CI/CD عبر Jenkins & GitHub Actions
-- تحسين وقت الاستجابة 40% عبر Redis
+## Highlights
+- Microservices on Docker + Kubernetes
+- CI/CD via Jenkins & GitHub Actions
+- Improved response time by 40% using Redis
 
-## الدور
-مهندس برمجيات: تصميم المعمارية وبناء المكونات الأساسية والنشر والأتمتة.
+## Role
+Software Engineer: designed the architecture and built the core components, deployment, and automation.
 
-## التقنيات المستخدمة
+## Technologies Used
 C#, ASP.NET Core, React, PostgreSQL, Docker, Kubernetes, Redis
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
